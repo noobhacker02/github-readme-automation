@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://github.com/noobhacker02/github-readme-automation/blob/main/repo_automate.mp4" alt="Git Reader Header Banner" width="100%">
+<video src="https://raw.githubusercontent.com/noobhacker02/github-readme-automation/main/repo_automate.mp4" width="100%" autoplay loop muted playsinline>
+  Your browser does not support the video tag.
+</video>
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)

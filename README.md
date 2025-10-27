@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/noobhacker02/github-readme-automation/blob/main/repo_automate.mp4" alt="Git Reader Header Banner" width="100%">
+<img src="https://github.com/noobhacker02/github-readme-automation/blob/main/repo_automate.gif" alt="Git Reader Header Banner" width="100%">
 
 
 
